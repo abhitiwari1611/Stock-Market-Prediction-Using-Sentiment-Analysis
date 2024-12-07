@@ -42,4 +42,4 @@ If you have any feedback, please reach out to me at abhitiwari0134@gmail.com
 
 
 
-Feel free to **file a new issue** with a respective title and description on the the [Stock trend prediction based on social media articles](https://github.com/abhitiwari611/Stock-Market-Prediction-Using-Sentiment-Analysis/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+Feel free to **file a new issue** with a respective title and description on the the [Stock Market Prediction Using Sentiment Analysis](https://github.com/abhitiwari611/Stock-Market-Prediction-Using-Sentiment-Analysis/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
